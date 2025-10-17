@@ -1,7 +1,7 @@
 # 🥗 Calomate | Ứng Dụng Chăm Sóc Sức Khỏe
 
 
-**Calomate** là một ứng dụng di động được xây dựng trong **Đề án Tốt nghiệp (ĐATN)** tại **Trường Đại học Công nghiệp Hà Nội (HAUI)**. Dự án nhằm cung cấp một công cụ mạnh mẽ và trực quan, giúp người dùng dễ dàng theo dõi lượng Calorie, quản lý chế độ dinh dưỡng hàng ngày và đạt được các mục tiêu sức khỏe cá nhân.
+**Calomate** là một ứng dụng di động được xây dựng trong **Đồ Án Tốt nghiệp ** tại **Trường Đại học Công nghiệp Hà Nội (HAUI)** của sinh viên **Nguyễn Trọng Trường**. Dự án nhằm cung cấp một công cụ mạnh mẽ và trực quan, giúp người dùng dễ dàng theo dõi lượng Calorie, quản lý chế độ dinh dưỡng hàng ngày và đạt được các mục tiêu sức khỏe cá nhân.
 
 ---
 
